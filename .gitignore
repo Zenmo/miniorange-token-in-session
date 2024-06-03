@@ -1,0 +1,6 @@
+*.iml
+.idea
+wordpress
+vendor
+composer.lock
+*.zip
